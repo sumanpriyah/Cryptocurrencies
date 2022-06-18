@@ -39,7 +39,6 @@ Merged the dataframes and added the class that holds the predictions
 
 ![](https://github.com/sumanpriyah/Cryptocurrencies/blob/main/Images/Elbow%20curve.png)
 
-![](https://github.com/sumanpriyah/Credit_Risk_Analysis/blob/main/Images/Deliverable1_Naive%20Random%20Oversampling.png)
 
 ### 4. Visualizing Cryptocurrencies Results
 Created a 3D-Scatter with the PCA data and the clusters
